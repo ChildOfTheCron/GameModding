@@ -24,3 +24,21 @@ If you have any quotes you'd like to see reach out to Hobo in the Darktide moddi
 
 Huge shout out to the Darktide community who are super passionate about the game. Another huge shout out to the Darktide modding community, for being super helpful in helping me with my first ever Darktide mod!
 
+## EggHunt
+
+EggHunt will start an egg hunt mini game. There are 4 eggs to find, and they are (kinda) random each time you play.
+
+There are no visiable eggs because that's not possible currently. But if you get near a location of an egg you'll hear a squishy sound play as a hint. If you hear a squishy sound, look around the immediate area. Once you walk on an egg location, you'll get a message pop up telling you you've found it! Be warned, some of them are pretty well hidden!
+
+If you find all 4 eggs, you win the round! Great job!
+
+How to play
+• When on the Mourningstar type egg_hunt start to start the game.
+• The game requires that you collect 4 eggs that are hidden around the ship.
+• You'll hear a squishy sound play sometimes when you are close to an egg location!
+• Once all 4 eggs are found the day is saved! And you can start over if you want.
+• NOTE: You can stop the game at any time by typing egg_hunt stop.
+• To play a new game or restart a current one, just type egg_hunt start again.
+
+Known issue
+Sometimes sprinting can cause the egg pickup to not work if you sprint over it. I think it's tied to framerate. Anyhow, if you get near an egg location, just don't sprint and take your time looking for it :D
