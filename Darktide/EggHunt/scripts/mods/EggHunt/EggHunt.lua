@@ -17,6 +17,7 @@ local Colors = require("scripts/foundation/utilities/color")
 local CMDLine = mod:localize("egg_instructions")
 local egg_sound = "wwise/events/minions/play_beast_of_nurgle_vce_excited"
 local hum_sound = "wwise/events/player/play_player_vomit_enter"
+local AFKChecker = require("scripts/managers/game_mode/afk_checker")
 
 -- Load localization we need for the game 
 local angry_egg_speak = mod:localize("angry_egg")
@@ -224,4 +225,10 @@ mod:command("egg_hunt", CMDLine, function(...)
     elseif (...) == "stop" then
         play_mini_game = false
     end
+end)
+
+-- Make sure we turn the game off before the user gets disconnected for being AFK
+mod:hook_safe(AFKChecker,"_show_warning_popup", function (self, minutes_to_kick)
+    play_mini_game = false
+    return func(self, minutes_to_kick) 
 end)
