@@ -3,11 +3,12 @@ return {
 		en = "This mod changes the default loading screen hints to add some broader lore from the 40K universe for new people. Or just random funny quotes from the community or memes.",
 	},
 	-- Text from 40K lore and books
+	-- "Despite their intelligence, Bone'ead Ogryns naturally exhibit many qualities that define a good leader. They tend to be driven individuals, stubborn to a fault and unwilling to back down or admit defeat in even the most" anything over this string length will look kinda bad
 	lore_text_1 = {
 		en = "It is the 41st Millenium. In the grim darkness of the far future, there is only war. The Emperor of Mankind wages a constant battle to protect humanity from the horrors of space.",
 	},
 	lore_text_2 = {
-		en = "For more than a hundred centuries the Emperor of Mankind has sat immobile on the Golden Throne of Earth. He is the master of mankind by the will of the gods and master of a million worlds by the might of His inexhaustible armies. He is a rotting carcass writhing invisibly with power from the Dark Age of Technology. He is the Carrion Lord of the vast Imperium of Man for whom a thousand souls are sacrificed every day so that He may never truly die.",
+		en = "For more than a hundred centuries the Emperor of Mankind has sat immobile on the Golden Throne of Earth. He is the master of mankind by the will of the gods and master of a million worlds by the might of His inexhaustible armies.",
 	},
 	lore_text_3 = {
 		en = "'Chaos claims the unwary or the incomplete. A true man may flinch away its embrace, if he is stalwart, and he girds his soul with the armour of contempt.' - Ravenor, by Dan Abnett",
@@ -32,6 +33,69 @@ return {
 	},
 	lore_text_10 = {
 		en = "It took Abaddon the Despoiler crashing an extremely large space fortress, the Blackstone Fortress, into the Fortress World Cadia to finally defeat it.",
+	},
+	lore_text_11 = {
+		en = "The Emperor of Mankind is a rotting carcass writhing with power from the Dark Age of Technology. He is the Carrion Lord for whom a thousand souls are sacrificed every day so that He may never truly die.",
+	},
+	ogryn_lore_1 = {
+		en = "The Ogryn (Homo sapiens gigantus) are a huge and physically powerful Abhuman mutant subspecies of Humanity, employed by the Imperium of Man as shock troopers in the Astra Militarum's Militarum Auxilla.",
+	},
+	ogryn_lore_2 = {
+		en = "Ogryn Ripper Guns must be fitted with burst limiters to stop the Ogryns from firing ceaselessly ... thirty solar seconds of noisy enjoyment can easily leave these Abhumans short of ammunition before a battle has even begun.",
+	},
+	ogryn_lore_3 = {
+		en = "Ogryn hail from a series of cold and barren planets across the galaxy that possess high gravity, such as Anark Zeta, which is why they appear larger, heavier and bulkier compared to baseline Humans.",
+	},
+	ogryn_lore_4 = {
+		en = "Originating from cold, barren, high-gravity prison planets settled many millennia before the founding of the Imperium of Man, the Ogryns' ancestors were once normal, baseline Humans during the Age of Technology.",
+	},
+	ogryn_lore_5 = {
+		en = "Ogryns are said to be even less intelligent than some Orks. However, the truth is that their intellects did not actually atrophy, but became much more focused on matters such as survival. The genes that enable psychic abilities are unknown among Ogryn as a result.",
+	},
+	ogryn_lore_6 = {
+		en = "Ogryns are known to be claustrophobic and are often loaded into armoured carrier vehicles with great difficulty. Sometimes they can only ride in vehicles if a commanding officer or commissar is present.",
+	},
+	ogryn_lore_7 = {
+		en = "The Tithes Chamber Notaries, sub. Planetary Census (Abhuman) is a sub-division of the Adeptus Administratum that oversees the classification and recognition of stable Abhuman strains within the Imperium.",
+	},
+	ogryn_lore_8 = {
+		en = "Currently stable abhuman strains are officially listed as seven distinct types -- Alpha, Theta, Type IV, Type VIIA, H.S. gigantus gigantus, H.S. gigantus cranopus and the mysterious Grey Ogryns.",
+	},
+	ogryn_lore_9 = {
+		en = "When the Ogryns were rediscovered on their homeworlds by the Imperium during the Great Crusade, the Imperial Army saw their military potential and began recruiting the Ogryns as close combat soldiers.",
+	},
+	ogryn_lore_10 = {
+		en = "Ogryns are known to believe and do anything their leaders say and ask, and see the orders they receive as having come down the chain of command from the beloved God-Emperor Himself.",
+	},
+	ogryn_lore_11 = {
+		en = "Some Ogryns undergo a procedure known as Biochemical Ogryn Neural Enhancement (BONE); which raises their intelligence. These relatively smart Ogryn are given the title Bone'eads.",
+	},
+	ogryn_lore_12 = {
+		en = "Ogryns officially serve in the Militarum Auxilla, the specialist division of the Astra Militarum that contains most of the Abhuman units employed by the Imperium, including Ogryn and Ratlings.",
+	},
+	ogryn_lore_13 = {
+		en = "'So I asks meself, what would Colonel Stracker do? Easy I says, ed' probably yell at me for bloody standin' about and not smashin' things with me mates. So that's what I did. They even gave me this ere shiny medal when I was through.' - Specialist Nift, Bone'ead 1st class, speaking candidly about his promotion",
+	},
+	ogryn_lore_14 = {
+		en = "Bone'eads are often the brains of their units, and other Ogryns look to them for leadership both on and off the battlefield.",
+	},
+	ogryn_lore_15 = {
+		en = "Where the average Ogryn is clumsy, Bone'eads are much more coordinated and able to wield weapons with surprising dexterity, though their inherent clumsiness can never be completely eradicated.",
+	},
+	ogryn_lore_16 = {
+		en = "The main difference between a Bone'ead and his squad mates is the cerebral implants and modifications to their thick skulls. Despite their crude appearance, these implants are quite sophisticated.",
+	},
+	ogryn_lore_17 = {
+		en = "Despite their intelligence, Bone'ead Ogryns naturally exhibit many qualities that define a good leader. They tend to be driven individuals, stubborn to a fault and unwilling to back down or admit defeat.",
+	},
+	ogryn_lore_18 = {
+		en = "'Wot one, sah? Oh, dat one dere? 'E ain't so tough lookin' ta me. Don't you worry none, sah, I'll fix em.' - Tug the Ogryn, before slaying an Ork Nob with his own liberated Power Klaw.",
+	},
+	ogryn_lore_19 = {
+		en = "Many Ogryn are even large enough to fire their weapons on the move, acting like a sort of mobile fire support platform for their fellow soldiers while eagerly charging into the fray.",
+	},
+	ogryn_lore_20 = {
+		en = "Bone'ead are able to understand more complex orders and are often placed in command of a squad of normal, unaugmented Ogryns.",
 	},
     -- Let's get some positivity up in here
 	pos_text_1 = {
@@ -99,7 +163,7 @@ return {
 		en = "HINT: Beware, picking up a GRIMOIRE will cause you to take damage. Also your team will slowly lose health while carrying grimoires due to corruption.",
 	},
 	pos_text_22 = {
-		en = "HINT: Using a GRIMOIRE in your inventory will cause it to disappear.You'll also stop taking corruption damage from it.",
+		en = "HINT: Using a GRIMOIRE in your inventory will cause it to disappear. You'll also stop taking corruption damage from it.",
 	},
 	pos_text_23 = {
 		en = "HINT: Weapons fire from enemies will only stagger you once they break through your toughness!",

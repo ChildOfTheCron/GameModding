@@ -17,7 +17,27 @@ local lore_loading_hints = {
     "lore_text_7",
     "lore_text_8",
     "lore_text_9",
-    "lore_text_10"
+    "lore_text_10",
+    "ogryn_lore_1",
+    "ogryn_lore_2",
+    "ogryn_lore_3",
+    "ogryn_lore_4",
+    "ogryn_lore_5",
+    "ogryn_lore_6",
+    "ogryn_lore_7",
+    "ogryn_lore_8",
+    "ogryn_lore_9",
+    "ogryn_lore_10",
+    "ogryn_lore_11",
+    "ogryn_lore_12",
+    "ogryn_lore_13",
+    "ogryn_lore_14",
+    "ogryn_lore_15",
+    "ogryn_lore_16",
+    "ogryn_lore_17",
+    "ogryn_lore_18",
+    "ogryn_lore_19",
+    "ogryn_lore_20"
 }
 local pos_loading_hints = {
 	"pos_text_1",
