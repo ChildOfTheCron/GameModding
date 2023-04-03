@@ -161,7 +161,7 @@ return {
 	-- From feedback on Reddit: https://www.reddit.com/r/DarkTide/comments/11j9o7f/help_me_with_my_mod_anything_you_wish_you_knew/
 	pos_text_8 = {
 		en = "HINT: Don't let spark 'ead explode near barrels. Don't let shouty get too far away, otherwise they'll get themselves into trouble. - a wise ogryn",
-		ru = "СОВЕТ: Ни пазваляйте искрагаловым взрывацца рядам с бочками! Ни пазваляйте крикливым убигать слишкам далеко, или они пападут в беду! - мудрый огрин",
+		ru = "СОВЕТ: Ни пазваляйте искрагаловым взрывацца рядам с бочками! Ни пазваляйте крикливым убигать слишкам далеко или они пападут в беду! - мудрый огрин",
 	},
 	pos_text_9 = {
 		en = "HINT: Flash lights attract enemies. And they anger daemonhosts. Switch them off, when you want to be sneaky.",
@@ -277,7 +277,7 @@ return {
 	},
 	pos_text_38 = {
 		en = "HINT: Slab Shield will not block Disablers, Poxbursters or fire.",
-		ru = "СОВЕТ: Щит не может заблокировать атаки выводящих из строя врагов, взрыв Чумного взрывуна или огонь.",
+		ru = "СОВЕТ: Щит не может заблокировать атаки обездвиживающих врагов, взрыв Чумного взрывуна или огонь.",
 	},
 	pos_text_39 = {
 		en = "HINT: The Veteran's reload speed feats stack.",
