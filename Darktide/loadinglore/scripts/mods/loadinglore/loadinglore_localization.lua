@@ -388,6 +388,45 @@ return {
 		en = "Magnus did a lot wrong.",
 		ru = "Магнус сделал много плохого.",
 	},
+	fun_text_8 = {
+		en = "Sly Marbo threw a grenade and killed five Orks. Then it exploded.",
+	},
+	fun_text_9 = {
+		en = "Sly Marbo poked the Warp right in the Eye of Terror.",
+	},
+	fun_text_10 = {
+		en = "A Catachan Devil once stung Sly Marbo. After 5 solar days of agonizing pain, the Catachan Devil died.",
+	},
+	fun_text_11 = {
+		en = "Flak Armour wears Sly Marbo for protection.",
+	},
+	fun_text_12 = {
+		en = "Sly Marbo doesn't have a shadow because he scared it off.",
+	},
+	fun_text_13 = {
+		en = "When Ambulls go to bed at night, they check their nests for Sly Marbo.",
+	},
+	fun_text_14 = {
+		en = "Sly Marbo once shot down a Dakkajet by pointing at it with his finger and saying 'bang!'.",
+	},
+	fun_text_15 = {
+		en = "Sly Marbo doesn't shower, he takes blood baths.",
+	},
+	fun_text_16 = {
+		en = "Sly Marbo beat a Warlord Titan at arm wrestling.",
+	},
+	fun_text_17 = {
+		en = "Sly Marbo can run faster than a Shokkjump Dragsta.",
+	},
+	fun_text_18 = {
+		en = "Sly Marbo sleeps with a pillow under his gun.",
+	},
+	fun_text_19 = {
+		en = "Sly Marbo does not sleep. He waits...",
+	},
+	fun_text_20 = {
+		en = "Sly Marbo won a staring contest with a Necron.",
+	},
 	-- widget data
 	lore_setting = {
 		en = "Enable Lore Hints",
