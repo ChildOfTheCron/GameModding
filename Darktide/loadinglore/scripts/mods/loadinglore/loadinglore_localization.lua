@@ -390,42 +390,55 @@ return {
 	},
 	fun_text_8 = {
 		en = "Sly Marbo threw a grenade and killed five Orks. Then it exploded.",
+		ru = "Слай Мэрбо бросил гранату и убил пятерых орков. Потом граната взорвалась.",
 	},
 	fun_text_9 = {
 		en = "Sly Marbo poked the Warp right in the Eye of Terror.",
+		ru = "Слай Мэрбо ткнул Варпом прямо в Око Ужаса.",
 	},
 	fun_text_10 = {
 		en = "A Catachan Devil once stung Sly Marbo. After 5 solar days of agonizing pain, the Catachan Devil died.",
+		ru = "Катачанский дьявол однажды ужалил Слая Мэрбо. После 5 дней мучительной боли Катачанский Дьявол умер.",
 	},
 	fun_text_11 = {
 		en = "Flak Armour wears Sly Marbo for protection.",
+		ru = "Противоосколочная броня носит Слая Мэрбо для защиты.",
 	},
 	fun_text_12 = {
 		en = "Sly Marbo doesn't have a shadow because he scared it off.",
+		ru = "У Слая Мэрбо нет тени, потому что он ее спугнул.",
 	},
 	fun_text_13 = {
 		en = "When Ambulls go to bed at night, they check their nests for Sly Marbo.",
+		ru = "Амбуллы перед сном, проверяют свои гнезда, чтобы убедиться, что там нет Слая Мэрбо.",
 	},
 	fun_text_14 = {
 		en = "Sly Marbo once shot down a Dakkajet by pointing at it with his finger and saying 'bang!'.",
+		ru = "Слай Мэрбо однажды сбил летало Даккаджет, прицелившись в него пальцем и сказав \"Бах!\".",
 	},
 	fun_text_15 = {
 		en = "Sly Marbo doesn't shower, he takes blood baths.",
+		ru = "Слай Мэрбо не любит душ, он любит кровавые бани.",
 	},
 	fun_text_16 = {
 		en = "Sly Marbo beat a Warlord Titan at arm wrestling.",
+		ru = "Слай Мэрбо поборол на руках Титана Полководца.",
 	},
 	fun_text_17 = {
 		en = "Sly Marbo can run faster than a Shokkjump Dragsta.",
+		ru = "Слай Мэрбо бегает быстрее, чем спидстер Шоккпрыг Драгста.",
 	},
 	fun_text_18 = {
 		en = "Sly Marbo sleeps with a pillow under his gun.",
+		ru = "Слай Мэрбо спит с подушкой под пистолетом.",
 	},
 	fun_text_19 = {
 		en = "Sly Marbo does not sleep. He waits...",
+		ru = "Слай Мэрбо не спит. Он ждёт...",
 	},
 	fun_text_20 = {
 		en = "Sly Marbo won a staring contest with a Necron.",
+		ru = "Слай Мэрбо обыграл в гляделки некрона.",
 	},
 	-- widget data
 	lore_setting = {
