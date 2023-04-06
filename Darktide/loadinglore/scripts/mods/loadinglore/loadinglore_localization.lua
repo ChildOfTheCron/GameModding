@@ -245,7 +245,7 @@ return {
 	},
 	pos_text_29 = {
 		en = "HINT: Using your Combat Ability as Psyker when you are exploding from peril will stop you from exploding.",
-		ru = "СОВЕТ: Использование Боевой способности псайкера, предотвратит взрыв, при превышении вами максимального уровня опасности.",
+		ru = "СОВЕТ: Использование Боевой способности псайкера, предотвратит взрыв, при превышении вами максимального уровня угрозы.",
 	},
 	pos_text_30 = {
 		en = "HINT: Running only dodges bullets if you have stamina",
