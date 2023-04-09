@@ -5,7 +5,7 @@ return {
 	},
 	mod_description = {
 		en = "This mod changes the default loading screen hints to add some broader lore from the 40K universe for new people. Or just random funny quotes from the community or memes.",
-		ru = "Этот мод заменяет стандартные подсказки на экране загрузки, чтобы дать более широкие знания из вселенной 40K для людей не знакомых с этой вселенной. Либо показывает просто случайные смешные цитаты из сообщества или мемы.",
+		ru = "Loading Lore - Заменяет стандартные подсказки на экране загрузки, чтобы дать более широкие знания из вселенной 40K для людей не знакомых с этой вселенной. Либо показывает просто случайные смешные цитаты из сообщества и мемы.",
 	},
 	-- Text from 40K lore and books
 	-- "Despite their intelligence, Bone'ead Ogryns naturally exhibit many qualities that define a good leader. They tend to be driven individuals, stubborn to a fault and unwilling to back down or admit defeat in even the most" anything over this string length will look kinda bad
