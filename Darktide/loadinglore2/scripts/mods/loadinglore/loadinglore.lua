@@ -1,7 +1,6 @@
 --[[
 Title: loadinglore
 Author: HoboMechanistic
-Russian Localization: xsSplater
 Date: 05/03/2023
 Repository: https://github.com/HoboMechanistic/GameModding
 ]]--
@@ -9,8 +8,8 @@ Repository: https://github.com/HoboMechanistic/GameModding
 -- Local vars we need (see localization for details)
 local mod = get_mod("loadinglore")
 local lore_loading_hints = {
-    "lore_text_1",
-    "lore_text_2",
+	"lore_text_1",
+	"lore_text_2",
     "lore_text_3",
     "lore_text_4",
     "lore_text_5",
@@ -18,31 +17,11 @@ local lore_loading_hints = {
     "lore_text_7",
     "lore_text_8",
     "lore_text_9",
-    "lore_text_10",
-    "ogryn_lore_1",
-    "ogryn_lore_2",
-    "ogryn_lore_3",
-    "ogryn_lore_4",
-    "ogryn_lore_5",
-    "ogryn_lore_6",
-    "ogryn_lore_7",
-    "ogryn_lore_8",
-    "ogryn_lore_9",
-    "ogryn_lore_10",
-    "ogryn_lore_11",
-    "ogryn_lore_12",
-    "ogryn_lore_13",
-    "ogryn_lore_14",
-    "ogryn_lore_15",
-    "ogryn_lore_16",
-    "ogryn_lore_17",
-    "ogryn_lore_18",
-    "ogryn_lore_19",
-    "ogryn_lore_20"
+    "lore_text_10"
 }
 local pos_loading_hints = {
-    "pos_text_1",
-    "pos_text_2",
+	"pos_text_1",
+	"pos_text_2",
     "pos_text_3",
     "pos_text_4",
     "pos_text_5",
@@ -99,26 +78,13 @@ local pos_loading_hints = {
     "pos_text_57"
 }
 local fun_loading_hints = {
-    "fun_text_1",
-    "fun_text_2",
+	"fun_text_1",
+	"fun_text_2",
     "fun_text_3",
     "fun_text_4",
     "fun_text_5",
     "fun_text_6",
-    "fun_text_7",
-    "fun_text_8",
-    "fun_text_9",
-    "fun_text_10",
-    "fun_text_11",
-    "fun_text_12",
-    "fun_text_13",
-    "fun_text_14",
-    "fun_text_15",
-    "fun_text_16",
-    "fun_text_17",
-    "fun_text_18",
-    "fun_text_19",
-    "fun_text_20"
+    "fun_text_7"
 }
 local lore_state = mod:get("lore_setting")
 local pos_state = mod:get("pos_setting")
@@ -209,3 +175,4 @@ mod:hook(CLASS.LoadingView, "_set_hint_text", function(func, self, text)
         return func(self, text)
     end
 end)
+
