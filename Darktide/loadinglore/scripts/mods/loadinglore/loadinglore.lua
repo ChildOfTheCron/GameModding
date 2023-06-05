@@ -209,3 +209,4 @@ mod:hook(CLASS.LoadingView, "_set_hint_text", function(func, self, text)
         return func(self, text)
     end
 end)
+
