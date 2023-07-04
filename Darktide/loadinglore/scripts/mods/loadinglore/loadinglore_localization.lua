@@ -572,7 +572,7 @@ return {
 	},
 	vet_lore_33 = {
 		en = "'Children you call them? They can pull a trigger just as well as veterans, and they have the spirit of a bull narthax. Call them children if you wish, I call them troops.' — Colonel Marus Cullen, Warhammer 40,000: Compendium, pg. 41",
-		ru = "«Вы называете их детьми? Они могут нажать на курок так же хорошо, как и ветераны, и у них есть дух быка нартакса. Если хотите, называйте их детьми, я называю их войсками». — Полковник Марус Каллен, Вархаммер 40,000: Компендиум, стр. 41",
+		ru = "«Вы называете их детьми? Они могут нажать на курок так же хорошо, как и ветераны, и в них есть дух нартакса. Если хотите, называйте их детьми, я называю их войсками». — Полковник Марус Каллен, Вархаммер 40,000: Компендиум, стр. 41",
 	},
 	vet_lore_34 = {
 		en = "'Men of Tanith! Do you want to live forever?' — Colonel-Commissar Ibram Gaunt, First and Only (Novel), Part Two: Fortis Binary Forge World, ch. 3",
@@ -1097,7 +1097,7 @@ return {
 	},
 	pos_text_25 = {
 		en = "HINT: Stamina recharges at a standard rate of 1 bar per second. Except on preacher who has a passive stamina recharge speed bonus of around 30 percent.",
-		ru = "СОВЕТ: Выносливость у всех классов перезаряжается со стандартной скоростью — 1 полоска в секунду, за исключением Проповедника, у которого пассивная прибавка к скорости восстановления выносливости составляет около 30%.",
+		ru = "СОВЕТ: Выносливость у всех классов перезаряжается со стандартной скоростью — 1 полоска в секунду, за исключением Проповедника, у которого пассивная прибавка к скорости восстановления выносливости составляет около 30 процентов.",
 	},
 	pos_text_27 = {
 		en = "HINT: Stamina affects your ability to both sprint fast and push enemies. Each push your operative does will exhaust one bar of stamina.",
@@ -1327,23 +1327,23 @@ return {
 	},
 	fun_text_25 = {
 		en = "'It's never too late to panic.' — Popular Valhallan folk saying, For The Emperor (Novel), ch. 15",
-		ru = "",
+		ru = "«Никогда не поздно начать паниковать». — Популярная вальхалльская народная поговорка, «За императора» (роман), гл. 15",
 	},
 	fun_text_26 = {
 		en = "'Any Cadian who can't field-strip his own lasgun by age ten was born on the wrong planet.' — Anonymous, Codex: Imperial Guard (5th Edition), pg. 14",
-		ru = "",
+		ru = "«Любой кадианец, который не может разобрать собственный лазган к десяти годам, родился не на той планете». — Аноним, Кодекс: Имперская гвардия (5-е издание), стр. 14",
 	},
 	fun_text_27 = {
-		en = '"Stop bleeding and fight back!" — Unknown Guardsman, Dawn of War: Winter Assault',
-		ru = "",
+		en = "'Stop bleeding and fight back!' — Unknown Guardsman, Dawn of War: Winter Assault",
+		ru = "«Остановите кровотечение и дайте отпор!» — Неизвестный гвардеец, Рассвет войны: Зимнее нападение",
 	},
 	fun_text_28 = {
 		en = "'Those are Eldar? I thought they'd be taller.' — Unknown Guardsman, Dawn of War: Winter Assault",
-		ru = "",
+		ru = "«Это Эльдар? Я думал, они будут повыше». — Неизвестный гвардеец, Рассвет войны: Зимнее нападение",
 	},
 	fun_text_29 = {
 		en = "'Colonel Stagler don't approve of educated men, says it was educated men that got Krieg bombed to shit in the first place. The colonel says that all a man needs to do is fight and die. That's the Krieg way.' — unnamed Death Korps soldier, Ultramarines: The Omnibus, ch. 6, pg. 358",
-		ru = "",
+		ru = "«Полковник Стаглер не одобряет образованных людей, говорит, что именно из-за образованных людей Криг разбомбили к чертям. Полковник говорит, что всё, что нужно человеку, это сражаться и умереть. Это путь Крига». — безымянный солдат Корпуса Смерти, Ультрамарины: Омнибус, гл. 6, стр. 358",
 	},
 	-- widget data
 	lore_setting = {
